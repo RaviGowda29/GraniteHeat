@@ -56,7 +56,7 @@ heat-equation-llm-finetuning/
 
 - [Kaggle Competition: Fine-Tuning LM for Physical Interpretation Hackathon](https://www.kaggle.com/competitions/fine-tuning-lm-physical-interpretation-hackathon/overview)
 
-- [IBM Granite 3.1 Model Documentation](https://www.google.com/search?client=safari&rls=en&q=granite+3.1&ie=UTF-8&oe=UTF-8)
+- [IBM Granite 3.1 Model Documentation](https://www.ibm.com/granite/docs/models/granite/)
 
 - [Build a Large Language Model (From Scratch)](https://www.google.co.in/books/edition/Build_a_Large_Language_Model_From_Scratc/scIgEQAAQBAJ?hl=en&gbpv=1&pg=PA1&printsec=frontcover)
 
