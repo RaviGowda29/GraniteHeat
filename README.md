@@ -1,5 +1,20 @@
 # Heat Equation Fine-Tuning for Large Language Models
 
+```mermaid
+flowchart TD
+    A[Start] --> B[Load Granite 3.1 Model]
+    B --> C[Prepare Dataset from Simulation Data]
+    C --> D[Convert VTK Files to CSV Format]
+    D --> E[Incorporate Boundary Conditions & Force Functions]
+    E --> F[Fine-Tune Model Using Instruction Tuning]
+    F --> G[Model Evaluation & Testing]
+    G --> H[Answer Physics-Based Questions]
+    H --> I[End]
+
+   
+
+```
+
 
 ## OverView
 
