@@ -22,10 +22,12 @@ The heat equation is a key partial differential equation (PDE) that describes ho
 ## Features:
 
 - Fine-tune IBM's Granite 3.1 model using Hugging Face Transformers.
-
+  
 - Generate synthetic data for training using PyVista and NumPy.
-
+  
 - Evaluate model performance with test datasets representing unseen scenarios.
+  
+- Experiment with instruction fine-tuning to improve model adaptability to specific tasks and enhance its performance in real-world applications.
 
 ## Project Structure
 ```
@@ -59,4 +61,6 @@ heat-equation-llm-finetuning/
 - [IBM Granite 3.1 Model Documentation](https://www.ibm.com/granite/docs/models/granite/)
 
 - [Build a Large Language Model (From Scratch)](https://www.google.co.in/books/edition/Build_a_Large_Language_Model_From_Scratc/scIgEQAAQBAJ?hl=en&gbpv=1&pg=PA1&printsec=frontcover)
+
+- [LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
 
